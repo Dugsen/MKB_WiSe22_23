@@ -1,0 +1,7 @@
+body {
+    height:400px;
+    background-size: cover;
+  background-image: url("../foto/foto1_big.jpg");
+  background-repeat: no-repeat;
+  background-position: top;
+}
